@@ -1,1 +1,1 @@
-# pagina_de_receitas
+# Exemplo de Página de Receitas criada com HTML e CSS
